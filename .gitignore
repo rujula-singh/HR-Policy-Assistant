@@ -1,0 +1,66 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Node / React
+# ==========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ==========================
+# Generated RAG Data
+# ==========================
+data/vector_store/
+
+# Optional (ignore uploaded PDFs if private)
+# data/pdf/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# OS
+# ==========================
+.DS_Store
+Thumbs.db
+
+#Notebooks
+notebook/
+
+#sample datasets
+data/csv
+data/text_files
+

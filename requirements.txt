@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers #python lib for turning sentences,paras,or whole documents into embeddings
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+fastapi[standard]
