@@ -12,11 +12,7 @@ Built as a hands-on project to learn how production RAG pipelines work end-to-en
 ![Empty state with suggested questions](./images/demo-empty-state.png)
 
 **Asking a policy question and getting a grounded answer**
-![Chat answer about conveyance reimbursement](./images/demo-chat-conveyance.png)
-
-**Follow-up question in the same conversation**
-![Chat answer about joining documents](./images/demo-chat-joining-docs.png)
-
+![Chat answer about conveyance reimbursement](./images/demo-conversation.png)
 ---
 
 ## Features
